@@ -1,6 +1,5 @@
 {
   "name": "root",
-  "version": "6.3.0",
   "private": true,
   "workspaces": [
     "modules/*"
